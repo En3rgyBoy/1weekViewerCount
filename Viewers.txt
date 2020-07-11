@@ -235,5 +235,4 @@ Sat 11 Jul 2020 04:06:01 PM CEST |         "concurrentViewers": "8",
 Sat 11 Jul 2020 04:16:07 PM CEST |         "concurrentViewers": "10",
 Sat 11 Jul 2020 04:26:13 PM CEST |         "concurrentViewers": "7",
 Sat 11 Jul 2020 04:36:27 PM CEST |         "concurrentViewers": "9",
-# PARROT BREAKDOWN, KALI FROM NOW. DO NOT BACK 2 HOURS!
-Sat 11 Jul 2020 04:58:54 PM CEST  |         "concurrentViewers": "11",
+Sat 11 Jul 2020 07:43:50 PM EDT  |         "concurrentViewers": "14",
